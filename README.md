@@ -24,12 +24,12 @@ This script automates the setup of a Python development environment on Ubuntu 24
 2. Make the script executable:
     ```bash
     cd python-dev-setup-ubuntu24
-    chmod +x setup.sh
+    chmod +x python-dev-setup-ubuntu24.sh
     ```
 
 3. Run the script:
     ```bash
-    ./setup.sh
+    ./python-dev-setup-ubuntu24.sh
     ```
 
 ## Customization:
